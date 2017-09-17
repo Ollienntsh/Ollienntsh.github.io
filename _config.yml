@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:            'Ante Machiedo'
+tagline:          'My personal blog'
+description:      ''
+url:              https://ollienntsh.github.io
+baseurl:          https://ollienntsh.github.io/
+
+author:
+  name:           'Ante Machiedo'
+  url:            
+
+paginate:         5
+
+github:
+  repo:           https://github.com/Ollienntsh/Ollienntsh.github.io
